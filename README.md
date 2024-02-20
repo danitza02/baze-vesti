@@ -6,3 +6,11 @@ Mogućnost kačenja, izmene i brisanja vesti omogućava korisnicima da aktivno u
 
 Aplikacija takođe pruža funkcionalnosti za korisnički menadžment, omogućavajući registraciju, prijavljivanje i upravljanje korisničkim nalogom. 
 Svaki korisnik ima pristup svojim vestima, gde može izmenjivati, dodavati ili brisati informacije prema sopstvenim potrebama.
+
+Kod treba preuzeti i pokrenuti u Visual Studio Code-u. Uz pomoc komandi
+cd frontend
+npm run dev
+je moguce u terminalu pokrenuti frontend.
+Backend pokrecemo u terminalu takodje komandama
+cd backend
+nodemon index.js
